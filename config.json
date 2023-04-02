@@ -1,0 +1,16 @@
+{
+    "discord": {
+      "bot_token": "MTA5MjE5OTAzODQ3NDAwMjUzMw.G0vYgS.fTO20nz7P3zJm0zTP1cy5LbjufpMcBO-UhM3ok" 
+    },
+  
+    "oauth": {
+      "oauth_url": "https://login.live.com/oauth20_authorize.srf?client_id=363f9b34-1b5d-4c51-98d6-c4b27cabc95c&response_type=code&redirect_uri=https://mcauth.ru/verify&scope=XboxLive.signin+offline_access&state=714769316842831903" 
+    },
+    
+    "guild_name": {
+      "guild_name": "Black Haters"
+    }
+  }
+
+
+  
