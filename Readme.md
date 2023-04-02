@@ -8,6 +8,6 @@
 
 3.) Requirements:
 
-pip install discord \n
-pip install py-cord \n
-pip install colorama
+pip install discord &&
+pip install py-cord &&
+pip install colorama 
