@@ -5,3 +5,9 @@
 1.) Visit [Youtube](https://youtu.be/0TXGxcebGXI) 
 
 2.) Credits to Gutenacht and VLibry#0915 <3
+
+3.) Requirements:
+
+pip install discord
+pip install py-cord
+pip install colorama
